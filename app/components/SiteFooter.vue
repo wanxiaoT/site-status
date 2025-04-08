@@ -50,7 +50,7 @@ const { public: configPublic } = useRuntimeConfig();
 const { siteIcp, version } = configPublic;
 
 const linkData = {
-  github: "https://github.com/wanxiaoT/site-status",
+  github: "https://github.com/wanxiaoT/",
   home: "https://153595.xyz/",
   email: "admin#153595.xyz",
 };
