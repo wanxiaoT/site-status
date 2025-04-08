@@ -54,6 +54,11 @@ const linkData = {
   home: "https://153595.xyz/",
   email: "admin#153595.xyz",
 };
+
+const metaData = {
+  author: "https://imsyy.top",
+  project: "https://github.com/imsyy/site-status",
+};
 </script>
 
 <style lang="scss" scoped>
